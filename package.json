@@ -23,6 +23,7 @@
     "@typescript-eslint/parser": "^6.18.1",
     "eslint": "^8.56.0",
     "eslint-config-next": "14.0.4",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "stylelint": "^16.1.0",
     "stylelint-config-concentric-order": "^5.2.0",
     "stylelint-config-standard": "^36.0.0",
